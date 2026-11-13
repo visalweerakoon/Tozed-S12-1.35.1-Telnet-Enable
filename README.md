@@ -2,6 +2,7 @@ Developed by Visal Weerakoon | 2026
 Tested Device: Dialog ZLT S12 Pro 4G CPE
 
 This modification was developed and tested on a Dialog ZLT S12 Pro router. Compatibility with other versions and variants has not been verified.
+
 ⚠️ WARNING: USE AT YOUR OWN RISK ⚠️
 
 This project involves modifying router firmware and system configurations. Incorrect firmware installation or script execution may cause device malfunction, configuration loss, or permanent damage (bricking).
